@@ -1,0 +1,15 @@
+<resources>
+	<string name="app_name">Knight Moves</string>
+
+
+	<string name="selectBoardSize">Select board size</string>
+	<string name="selectTiles">Select beginning and destination squares</string>
+	<string name="boardSelectSize">Select Board Size</string>
+	<string name="reset">Reset</string>
+	<string name="errorNoPath">No paths found…</string>
+
+	<string name="rightArrow" translatable="false">&#160; ➔ &#160;</string>
+	<string name="max_moves">Max moves</string>
+	<string name="display">Display</string>
+
+</resources>
